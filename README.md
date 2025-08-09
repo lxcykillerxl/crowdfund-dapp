@@ -67,14 +67,6 @@ Network: Demo Mode (Blockchain features simulated)
    http://localhost:3000
    ```
 
-## 🌐 Deployment
-
-This project is configured for easy deployment to Railway, Heroku, or any Node.js hosting platform.
-
-### Deploy to Railway (Recommended)
-1. Fork this repository
-2. Connect to [Railway.app](https://railway.app)
-3. Deploy with one click
 
 ## 🎯 Project Structure
 

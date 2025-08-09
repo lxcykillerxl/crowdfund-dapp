@@ -31,18 +31,25 @@
 
 **[Try CrowdFund3D Live →](https://crowdfund3d-platform.onrender.com)**
 
-### Demo Credentials
-```
-Private Key: 0xac0974bec39a17e36ba4a6b4d238ff944bacb478cbed5efcae784d7bf4f2ff80
-Network: Demo Mode (Blockchain features simulated)
-```
+### Demo Instructions
+- Click "Connect & Try Demo" to start
+- Create test campaigns with any values
+- Contribute to existing campaigns
+- Experience the full crowdfunding workflow
+- All blockchain features are simulated for demo purposes
+
+### Current Status
+✅ **Live and Deployed** on Render  
+✅ **Fully Functional** demo mode  
+✅ **Mobile Responsive** design  
+✅ **Professional UI/UX** with animations
 
 ## 🛠️ Tech Stack
 
 - **Frontend**: React 18, Tailwind CSS, Three.js, Web3.js
 - **Backend**: Node.js, Express.js, MongoDB, Mongoose
 - **Blockchain**: Solidity, Ethereum, Smart Contracts
-- **Deployment**: Railway, MongoDB Atlas
+- **Deployment**: Render, MongoDB Atlas
 
 ## 📦 Quick Start
 
@@ -69,12 +76,15 @@ Network: Demo Mode (Blockchain features simulated)
 
 ## 🌐 Deployment
 
-This project is configured for easy deployment to Railway, Heroku, or any Node.js hosting platform.
+This project is configured for easy deployment to Render, Heroku, or any Node.js hosting platform.
 
-### Deploy to Railway (Recommended)
+### Deploy to Render (Recommended)
 1. Fork this repository
-2. Connect to [Railway.app](https://railway.app)
-3. Deploy with one click
+2. Connect to [Render.com](https://render.com)
+3. Configure as Node.js web service
+4. Set build command: `npm install`
+5. Set start command: `node server.js`
+6. Deploy with one click
 
 ## 🎯 Project Structure
 
@@ -86,7 +96,7 @@ crowdfund-dapp/
 │   └── Crowdfunding.sol    # Smart contract
 ├── server.js               # Backend server
 ├── package.json            # Dependencies
-├── railway.json            # Railway configuration
+├── Procfile                # Process configuration
 └── README.md              # This file
 ```
 

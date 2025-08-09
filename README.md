@@ -1,6 +1,6 @@
 # 🚀 CrowdFund3D - Decentralized Crowdfunding Platform
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://crowdfund-dapp-production.up.railway.app)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://crowdfund3d-platform.onrender.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/lxcykillerxl/crowdfund-dapp)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
@@ -29,7 +29,7 @@
 
 ## 🚀 Live Demo
 
-**[Try CrowdFund3D Live →](https://crowdfund-dapp-production.up.railway.app)**
+**[Try CrowdFund3D Live →](https://crowdfund3d-platform.onrender.com)**
 
 ### Demo Credentials
 ```
